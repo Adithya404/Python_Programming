@@ -44,6 +44,6 @@ Add : 5+10+15=30
 Clone the repository and run the `calci.py` file using Python.
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/Adithya404/Python_Programming.git
+cd "CLI-based Calculator"
 python calci.py
